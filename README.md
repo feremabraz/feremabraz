@@ -2,6 +2,6 @@
 
 My dream is to become a prolific programmer. 🧙‍♂️
 
-## Visit https://www.gamekaiju.monster/. Launching soon. 📅🤞
+## Visit [Gamekaiju](https://gamekaiju-static.vercel.app/). Launching soon. 📅🤞
 
-![gk](https://user-images.githubusercontent.com/71205864/211120091-c500fc0a-945d-4cd0-a412-f2b867542ae0.png)
+![gk](https://user-images.githubusercontent.com/71205864/215911971-07611e25-b139-452d-88d6-e4ef57a692f0.png)
