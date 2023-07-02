@@ -8,7 +8,7 @@ My dream is to become a prolific programmer. 🧙‍♂️
 
 ## What do I do? 👨‍💻
 
-1. Native multi-platform desktop apps (C#, F#, Rust; MVVM, MVU architectures) for internal use tools, line of business and/or licensed sales.
+1. Native multi-platform desktop apps (C#, F#; MVVM, ReactiveUI) for internal use tools, line of business and/or licensed sales.
 2. Next-generation web apps stack (Next.js 13, TypeScript, React, Supabase) including authentication, internationalization, subscription (Stripe) for software-as-a-service products, or sale of digital services and products.
 3. Web interfaces and design systems (Tailwind, Chakra; Ladle) for web apps.
 4. Modern data platforms (Directus on PostgreSQL) exposed via self-generated APIs.
