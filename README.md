@@ -2,7 +2,7 @@
 
 My dream is to become a prolific programmer. 🧙‍♂️
 
-## See [Gamekaiju](https://gamekaiju-static.vercel.app/). Launching Q4. 📅
+## Gamekaiju. Launching Q4. 📅
 
 ![gk](https://user-images.githubusercontent.com/71205864/215911971-07611e25-b139-452d-88d6-e4ef57a692f0.png)
 
