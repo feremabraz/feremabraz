@@ -2,9 +2,9 @@
 
 My dream is to become a prolific programmer. 🧙‍♂️
 
-## Gamekaiju. Launching Q4. 📅
+## Gamekaiju. Launching Q3. 📅
 
-![gk](https://user-images.githubusercontent.com/71205864/215911971-07611e25-b139-452d-88d6-e4ef57a692f0.png)
+![gk](https://github.com/feremabraz/feremabraz/assets/71205864/a030c16e-0dde-4b87-a619-b23f32f036c3)
 
 ## What do I do? 👨‍💻
 
