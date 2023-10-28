@@ -2,6 +2,8 @@
 
 My dream is to become a prolific programmer. 🧙‍♂️
 
+`REDOING PROFILE UNTIL NEXT THURSDAY, NOVEMBER 2nd.`
+
 ## Visit [Gamekaiju](https://www.gamekaiju.monster/). Launching Q3. 📅
 
 ![gk](https://github.com/feremabraz/feremabraz/assets/71205864/a030c16e-0dde-4b87-a619-b23f32f036c3)
