@@ -4,9 +4,9 @@ My dream is to become a prolific programmer. 🧙‍♂️
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/feremabraz?pet-id=656452084884432733"
+    src="https://render.gitanimals.org/farms/feremabraz"
     width="600"
-    height="120"
+    height="300"
   />
 </a>
 
